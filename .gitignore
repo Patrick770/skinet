@@ -1,0 +1,6 @@
+obj
+bin
+appsettings.json
+.dtbcache.v2
+.suo
+*.db
